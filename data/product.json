@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Product 1",
+      "desc": "Product 101 desc",
+      "price": 100,
+      "conditionId": "C100",
+      "id": "P101"
+    },
+    {
+      "name": "Product 2",
+      "desc": "Product 102 desc",
+      "price": 130.5,
+      "conditionId": "C100",
+      "id": "P102"
+    },
+    {
+      "name": "Product 3",
+      "desc": "Product 201 desc",
+      "price": 130.5,
+      "conditionId": "C200",
+      "id": "P201"
+    },
+    {
+      "name": "Product 4",
+      "desc": "Product 311 desc",
+      "price": 80.5,
+      "conditionId": "C301",
+      "id": "P311"
+    },
+    {
+      "name": "Product 5",
+      "desc": "Product 312 desc",
+      "price": 100,
+      "conditionId": "C301",
+      "id": "P312"
+    },
+    {
+      "name": "Product 6",
+      "desc": "Product 322 desc",
+      "price": 100,
+      "conditionId": "C302",
+      "id": "P321"
+    },
+    {
+      "name": "Product 7",
+      "desc": "Product 322 desc",
+      "price": 100,
+      "conditionId": "C302",
+      "id": "P322"
+    }
+]

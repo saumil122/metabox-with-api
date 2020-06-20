@@ -1,0 +1,33 @@
+/* CSS Document */
+/*
+ * form element
+ */
+.form-table td input[type="text"]{width:50%;padding: 10px;}
+.form-table td select{width:50%;padding: 6px;height:auto;}
+.form-table td .program_day_cb{margin-bottom:5px;}
+.err{border:1px solid red !important;}
+.form-table td  span.error{color:red}
+
+/* meta box*/
+.metaboxapi_field {
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.metaboxapi_field label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.metaboxapi_field select {
+    width: 100%;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+.notes{
+    padding:5px 0;
+    font-size: 12px;
+    font-style: italic;
+    opacity: 0.5;
+}

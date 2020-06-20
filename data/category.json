@@ -1,0 +1,33 @@
+[
+    {
+      "subConditions": [],
+      "name": "Condition 01",
+      "desc": "Condition 01 Desc",
+      "id": "C100"
+    },
+    {
+      "subConditions": [],
+      "name": "Condition 02",
+      "desc": "Condition 02 Desc",
+      "id": "C200"
+    },
+    {
+      "subConditions": [
+        {
+          "subConditions": [],
+          "name": "Condition 03.1",
+          "desc": "Condition 03.1 Desc",
+          "id": "C301"
+        },
+        {
+          "subConditions": [],
+          "name": "Condition 03.2",
+          "desc": "Condition 03.2 Desc",
+          "id": "C302"
+        }
+      ],
+      "name": "Condition 03",
+      "desc": "Condition 03 Desc",
+      "id": "C300"
+    }
+  ]
